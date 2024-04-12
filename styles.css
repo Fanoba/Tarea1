@@ -1,0 +1,23 @@
+nav.barra-navegacion{
+    align-items: center;
+    justify-content: center;
+}
+
+.barra-navegacion ul{
+    padding: 23% 0;
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.barra-navegacion a{
+    font-size: 180%;
+    text-decoration: none;
+    color: black;
+}
+.barra-navegacion a:hover{
+    color: blue;
+}
